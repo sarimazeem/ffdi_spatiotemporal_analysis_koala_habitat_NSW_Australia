@@ -38,12 +38,10 @@ This project evaluates forest fire risk in Queensland, Australia and its impact 
 
 ---
 
-## 🧰 Tools & Libraries
+## 🧰 Tools
 
-- Python 3.x, Jupyter Notebook  
-- `numpy`, `pandas`, `rasterio`, `geopandas`, `matplotlib`  
-- `scipy`, `pymannkendall`  
-
+- Python 3.x
+- Jupyter Notebook  
 ---
 
 ## 📜 Notes
